@@ -5,7 +5,7 @@ The objective is to provide a summary for Notion records of what's done during t
 
 import requests
 
-NOTION_TOKEN = "secret_Va4s8OU11xFtybOdQrumw1gt3mtsdhPl15tF61S3Tvf"
+NOTION_TOKEN = "secret_"
 DATABASE_ID = "7a15b146da9d46b48aa90bedaed2f597"
 
 headers = {
